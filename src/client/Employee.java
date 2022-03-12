@@ -22,7 +22,7 @@ public class Employee {
 			System.out.println("--------------------------------------------");
 			System.out.println("1.insert data\n2.delete data\n3.update phone number\n4.get list of campus minds are in specific track");
 			System.out.println("---------------------------------------------");
-			System.out.println("enter choice: ");
+			System.out.println("Enter Choice:");
 			choice=sc.nextInt();
 			switch(choice) 
 			{
